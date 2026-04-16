@@ -1,0 +1,6 @@
+{
+  "name": "Savage Anglers",
+  "description": "Professional fishing community social media with marketplace, spot sharing, and real-time chat.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
